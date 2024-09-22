@@ -8,22 +8,12 @@ The Changelog Component is a simple yet effective way to display a log of notabl
 
 You can view the project page at [Changelog Component](https://roadmap.sh/projects/changelog-component).
 
+## Live Demo
+
+Check out the live demo of the project at [Changelog Component Live](https://farrukh-ali-khan.github.io/roadmap-project-changelog-component/).
+
 ## Features
 
 - Responsive design that adapts to various screen sizes.
 - Clear and structured layout to display updates.
 - Easy customization for design and layout.
-
-## Getting Started
-
-### Prerequisites
-
-- A web browser to view the project.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/changelog-component.git
-   cd changelog-component
-   ```
